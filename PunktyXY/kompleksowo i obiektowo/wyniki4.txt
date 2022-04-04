@@ -1,0 +1,4 @@
+Zadanie 1 | 18
+Zadanie 2 | 5
+Zadanie 3 | Te punkty to [9901, 593] i [35, 9583], a dystans to 13348
+Zadanie 4 | Kwadrat o krawędzi 10000, o srodku [0, 0], a wewnątrz jest: 249 pkt., na krawędzi leżą 2 pkt., na zewnątrz jest 749 pkt.

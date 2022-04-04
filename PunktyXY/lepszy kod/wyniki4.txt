@@ -1,0 +1,7 @@
+Zadanie 1: 18
+Zadanie 2: 5
+Zadanie 3: Para: [528,1291] i [9991,6378] | Dystans: 13348
+Zadanie 4:
+a) punkty leżące wewnątrz kwadratu: 249
+b) punkty leżące na krawędziach kwadratu 2
+c) punkty leżące poza kwadratem 749

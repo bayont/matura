@@ -1,0 +1,4 @@
+Wynik 4.1: 18
+Wynik 4.2: 5
+Wynik 4.3: Najdalej położone od siebie punkty: [9901, 593] [35, 9583], a odległość między nimi to 13348
+Wynik 4.4: a) punkty leżące wewnątrz kwadratu: 249 b) punkty leżące na krawędziach kwadratu 2 c) punkty leżące poza kwadratem 749
