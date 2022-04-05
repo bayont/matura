@@ -48,7 +48,7 @@ for i in range(len(punkty)):
         if odleglosc > max_odleglosc:
             max_odleglosc = odleglosc
             max_para = [p1, p2]
-wynik.write(f"Zadanie 3: Para: [{p1[0]},{p1[1]}] i [{p2[0]},{p2[1]}] | Dystans: {max_odleglosc}\n")
+wynik.write(f"Zadanie 3: Para: [{max_para[0]}] i [{max_para[1]}] | Dystans: {max_odleglosc}\n")
 
 #
 # Zadanie 4
@@ -68,7 +68,6 @@ for punkt in punkty:
 
 
 wynik.write(f"Zadanie 4:\na) punkty leżące wewnątrz kwadratu: {punkty_a}\nb) punkty leżące na krawędziach kwadratu {punkty_b}\nc) punkty leżące poza kwadratem {punkty_c}\n")
-
 
 
 
